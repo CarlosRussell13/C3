@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    color: #FF0000;
+    background: #000000;
+    margin: 0 auto; 
+   
+}
+
+
+h1 {
+    font-size: 60px;
+    padding-left: 45px; 
+    margin: 50px 0 25px 0;    
+}
+
+table {
+    width: calc(100% - 80px);
+    border-bottom: 1px solid #ddd; 
+    margin-bottom: 20px;
+    padding: 0 20px; 
+}
+
+td {
+    border: 1px solid #ddd;
+}
+
+img {
+    max-width: 100%;
+    height: automatic;
+    display: block;
+}
